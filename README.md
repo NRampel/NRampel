@@ -25,4 +25,4 @@ I am a 3rd Year Computer Engineering student with a passion in hardware design, 
 * 🤔 Not really looking to collaborate on anything major at this time due to it being **that** time of the semester
 ____ 
 ## 🛠️ Languages & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
