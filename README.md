@@ -1,9 +1,10 @@
-## Welcome to My Profile! 
+##👋 Welcome to My Profile! 
 
 <!--
 **NRampel/NRampel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me: 
+I am a 3rd Year Computer Engineering student with a passion in hardware design, embedded systems and very low-level programming. However, I also have experience and enjoy programming in high-level languages as well, of which I enjoy architecting backend logic. 
