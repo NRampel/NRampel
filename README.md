@@ -24,4 +24,4 @@ I am a 3rd Year Computer Engineering student with a passion in hardware design, 
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages**, **Doomscrolling**
 * 🤔 Not really looking to collaborate on anything major at this time due to it being **that** time of the semester
 ____ 
-🛠️ ### Languages: 
+***🛠️ Languages:***
