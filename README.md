@@ -24,5 +24,5 @@ I am a 3rd Year Computer Engineering student with a passion in hardware design, 
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages**, **Doomscrolling**
 * 🤔 Not really looking to collaborate on anything major at this time due to it being **that** time of the semester
 ____ 
-## 🛠️ Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+## 🛠️ Languages & Tools:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
