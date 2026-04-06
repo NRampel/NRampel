@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=NRampel&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=NRampel&style=flat) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NRampel&layout=compact&theme=dark)
 <!--
 **NRampel/NRampel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
