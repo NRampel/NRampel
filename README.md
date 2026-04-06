@@ -25,4 +25,4 @@ I am a 3rd Year Computer Engineering student with a passion in hardware design, 
 * 🤔 Not really looking to collaborate on anything major at this time due to it being **that** time of the semester
 ____ 
 ## 🛠️ Languages & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
