@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a 3rd Year Computer Engineering student with a passion in hardware design, embedded systems and very low-level programming. However, I also have experience and enjoy programming in high-level languages as well, of which I enjoy architecting backend logic, particularly general game development
 
 * 🔭 Currently working on PRESSUREDLE, a fangame inspired by Worldle, and one of my favorite games, PRESSURE
-* 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+* 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages**, **Doomscrolling**
 * 🤔 Not looking to collaborate on anything major at this time
 ____ 
