@@ -25,9 +25,9 @@ I am a 3rd Year Computer Engineering student with a passion in VLSI digital desi
 * 🤔 Not looking to collaborate on anything major at this time
 ____ 
 ## 🛠️ Languages & Tools:
-# **Software Programming Languages:**
+### **Software Programming Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
-# **Hardware Description Languages:**  
+### **Hardware Description Languages:**  
 ![VHDL](https://img.shields.io/badge/VHDL-00629B?style=flat&logo=ieee&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-00629B?style=flat&logo=ieee&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  	          ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat&logo=amd&logoColor=white) ![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=flat&logo=riscv&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-222222?style=flat&logo=amd&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ____ 
