@@ -35,7 +35,9 @@ ____
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  	          ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 
 #### **EDA Tools:**
-![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat&logo=amd&logoColor=white) ![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=flat&logo=riscv&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-222222?style=flat&logo=amd&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-____ 
-## 🖥️ OS & Hardware: 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Xilinx BASYS3](https://img.shields.io/badge/BASYS3-222222?style=for-the-badge&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat&logo=amd&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-222222?style=flat&logo=amd&logoColor=white)
+
+#### 🖥️ **Architecture, OS & Hardware:**  
+![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=flat&logo=riscv&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)  ![Xilinx BASYS3](https://img.shields.io/badge/BASYS3-222222?style=flat&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+
