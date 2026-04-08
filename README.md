@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ***NOTE: DUE TO MY OLD COMPUTER GETTING IRREPERABLY DAMAGED, I'VE LOST SOME WORKS, WHICH I AM ACTIVELY TRYING TO RECOVER/RECREATE***
 ### About Me: 
-I am a 3rd Year Computer Engineering student with a passion in VLSI digital design, embedded systems and very low-level programming. However, I also have experience and enjoy programming in high-level languages as well, of which I enjoy architecting backend logic, particularly general game development
+I am a 3rd Year Computer Engineering student who started in high-level software before transitioning/diving deep into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interacts with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. 
 
 * 🔭 Currently working on PRESSUREDLE, a fangame inspired by Worldle, and one of my favorite games, PRESSURE
 * 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -25,16 +25,16 @@ I am a 3rd Year Computer Engineering student with a passion in VLSI digital desi
 * 🤔 Not looking to collaborate on anything major at this time
 ____ 
 ## 🛠️ Languages & Tools:
-#### **Software Programming Languages:**
+#### 💻 **Software Programming Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
-#### **Hardware Description Languages:**  
+#### 🔧 **Hardware Description Languages:**  
 ![VHDL](https://img.shields.io/badge/VHDL-00629B?style=flat&logo=ieee&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-00629B?style=flat&logo=ieee&logoColor=white)
 
-#### **Frameworks:** 
+#### 🗄️ **Frameworks, Database & Scripting:** 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  	          ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 
-#### **EDA Tools:**
+#### ⚡ **EDA Tools:**
 ![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat&logo=amd&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-222222?style=flat&logo=amd&logoColor=white)
 
 #### 🖥️ **Architecture, OS & Hardware:**  
