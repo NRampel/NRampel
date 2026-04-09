@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ***NOTE: DUE TO MY OLD COMPUTER GETTING IRREPERABLY DAMAGED, I'VE LOST SOME WORKS, WHICH I AM ACTIVELY TRYING TO RECOVER/RECREATE***
+
+***NOTE: I will be ceasing public development on PRESSUREDLE indefinitely as I do not support the actions the creator of PRESSURE has taken, so I'm not working on any high-level programs as of now. If you wish to have a copy, contact me at nrampel1@binghamton.edu.***
 ### About Me: 
 I am a 3rd Year Computer Engineering student who started in high-level software before transitioning/diving deep into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interacts with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. 
 
-* 🔭 In Light of Recent events regarding the creator of PRESSURE, I will be ceasing public development on PRESSUREDLE indefinitely as I do not support the actions the creator of PRESSURE has taken, so I'm not working on any high-level programs as of now. If you wish to have a copy, contact me at nrampel1@binghamton.edu. 
+* 🔭 Currently designing the firmware for a metal detector
 * 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages**, **Doomscrolling**
 * 🤔 Not looking to collaborate on anything major at this time
