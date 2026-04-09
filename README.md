@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ***NOTE: DUE TO MY OLD COMPUTER GETTING IRREPERABLY DAMAGED, I'VE LOST SOME WORKS, WHICH I AM ACTIVELY TRYING TO RECOVER/RECREATE***
 
-***NOTE: All public development on PRESSUREDLE will cease until an unknown time due to recent, series allegations surrounding the creator of PRESSURE (the game that PRESSUREDLE was a passion project for), I am entirely distancing myself and my work from the original game. Deployment will not happen and copies will not be distributed unless you are a friend/family member or a verifiable recruiter.***
+***NOTE: All public development on PRESSUREDLE will cease indefinitely due to recent, series allegations surrounding the creator of PRESSURE (the game that PRESSUREDLE was a passion project for), I am entirely distancing myself and my work from the original game. Deployment will not happen and copies will not be distributed unless you are a friend/family member or a verifiable recruiter.***
 
 ### About Me: 
 I am a 3rd Year Computer Engineering student who started in high-level software before transitioning/diving deep into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interacts with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. 
