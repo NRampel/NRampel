@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 ***NOTE: DUE TO MY OLD COMPUTER GETTING IRREPERABLY DAMAGED, I'VE LOST SOME WORKS, WHICH I AM ACTIVELY TRYING TO RECOVER/RECREATE***
 
-***NOTE: All public development on PRESSUREDLE will cease indefinitely due to recent, series allegations surrounding the creator of PRESSURE (the game that PRESSUREDLE was a passion project for), I am entirely distancing myself and my work from the original game. Deployment will not happen and copies will not be distributed unless you are a friend/family member or a verifiable recruiter.***
+***CONTACT ME DIRECTLY TO SEE ANY PRIVATED WORKS***
 
 ### About Me: 
-I am a 3rd Year Computer Engineering student who started in high-level software before transitioning/diving deep into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interact with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. 
+I am a 3rd Year Computer Engineering student who started in high-level software before transitioning into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interact with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. In uni I started out as undecided but would've gone into a math major with a Data Science minor, but after making it into the engineering school, I switched to Computer Engineering due to finding it a lot more fun and practical.
 
 * 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages**, **Doomscrolling**
