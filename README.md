@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 ***NOTE: DUE TO MY OLD COMPUTER GETTING IRREPERABLY DAMAGED, I'VE LOST SOME WORKS, WHICH I AM ACTIVELY TRYING TO RECOVER/RECREATE***
 
-***CONTACT ME DIRECTLY TO SEE ANY PRIVATED WORKS***
+***CONTACT ME DIRECTLY TO SEE ANY PRIVATED WORKS, SUCH AS BUT NOT LIMITED TO:***
+* ***PRESSUREDLE***
+* ***Metal Detector Microcontroller**
+
 
 ### About Me: 
 I am a 3rd Year Computer Engineering student who started in high-level software before transitioning into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interact with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. In uni I started out as undecided but would've gone into a math major with a Data Science minor, but after making it into the engineering school, I switched to Computer Engineering due to finding it a lot more fun and practical.
