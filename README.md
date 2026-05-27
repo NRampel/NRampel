@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ***CONTACT ME DIRECTLY TO SEE ANY PRIVATED WORKS, SUCH AS BUT NOT LIMITED TO:***
 * ***PRESSUREDLE***
-* ***Metal Detector Microcontroller***
 
 
 ### About Me: 
