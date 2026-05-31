@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### About Me: 
 I am a 3rd Year Computer Engineering student who started in high-level software before transitioning into low-level software, VLSI design and Embedded Systems. I am very passionate and curious about how hardware and software interact with eachother, and keep that in mind whether or not I'm developing a web game or an embedded system. In uni I started out as undecided but would've gone into a math major with a Data Science minor, but after making it into the engineering school, I switched to Computer Engineering due to finding more emjoyment in it
 
-* 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+* 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages (Fluent in English & French)**, **Doomscrolling**
 * 🤔 Not looking to collaborate on anything major at this time
 ____ 
