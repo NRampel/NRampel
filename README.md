@@ -26,7 +26,6 @@ I am a 3rd Year Computer Engineering student who started in high-level software 
 
 * 🌱 Learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 * ⚽ Hobbies: **Lifting**, **Combat Sports**, **Art**, **Video Games**, **Learning natural languages (Fluent in English & French)**, **Doomscrolling**
-* 🤔 Not looking to collaborate on anything major at this time
 ____ 
 ## 🛠️ Languages & Tools:
 #### 💻 **Software Programming Languages:**
