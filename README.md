@@ -36,6 +36,6 @@ ____
 ![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat&logo=amd&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-222222?style=flat&logo=amd&logoColor=white) ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=flat&logo=kicad&logoColor=white)
 
 #### 🖥️ **Architecture, OS & Hardware:**  
-![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=flat&logo=riscv&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)  ![Xilinx BASYS3](https://img.shields.io/badge/BASYS3-222222?style=flat&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=flat&logo=riscv&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)  ![Xilinx BASYS3](https://img.shields.io/badge/BASYS3-222222?style=flat&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=Arduino&logoColor=white)
 
 
